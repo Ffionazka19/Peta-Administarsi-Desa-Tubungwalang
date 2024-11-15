@@ -1,0 +1,1 @@
+var json_BalaiPelatihan_17 = {"type":"FeatureCollection","name":"BalaiPelatihan_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[123.810822947123185,-8.227588581300889]}}]}

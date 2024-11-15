@@ -1,0 +1,1 @@
+var json_PemakamanUmum_11 = {"type":"FeatureCollection","name":"PemakamanUmum_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[123.808191870486056,-8.226853491674065]}}]}
